@@ -1,0 +1,2 @@
+D:\lập trình nâng cao\buoi3\obj\Debug\buoi3.csproj.AssemblyReference.cache
+D:\lập trình nâng cao\buoi3\obj\Debug\buoi3.csproj.CoreCompileInputs.cache

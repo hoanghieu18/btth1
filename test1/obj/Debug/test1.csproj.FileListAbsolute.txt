@@ -1,0 +1,5 @@
+D:\lập trình nâng cao\test1\obj\Debug\test1.csproj.AssemblyReference.cache
+D:\lập trình nâng cao\test1\obj\Debug\Btth1.FrmBai1_1.resources
+D:\lập trình nâng cao\test1\obj\Debug\test1.Properties.Resources.resources
+D:\lập trình nâng cao\test1\obj\Debug\test1.csproj.GenerateResource.cache
+D:\lập trình nâng cao\test1\obj\Debug\test1.csproj.CoreCompileInputs.cache

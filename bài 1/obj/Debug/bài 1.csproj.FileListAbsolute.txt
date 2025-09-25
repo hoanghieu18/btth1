@@ -1,0 +1,13 @@
+D:\lập trình nâng cao\bài 1\bin\Debug\bài 1.exe.config
+D:\lập trình nâng cao\bài 1\bin\Debug\bài 1.exe
+D:\lập trình nâng cao\bài 1\bin\Debug\bài 1.pdb
+D:\lập trình nâng cao\bài 1\obj\Debug\bài 1.csproj.AssemblyReference.cache
+D:\lập trình nâng cao\bài 1\obj\Debug\bài_1.Form1.resources
+D:\lập trình nâng cao\bài 1\obj\Debug\bài_1.Properties.Resources.resources
+D:\lập trình nâng cao\bài 1\obj\Debug\bài 1.csproj.GenerateResource.cache
+D:\lập trình nâng cao\bài 1\obj\Debug\bài 1.csproj.CoreCompileInputs.cache
+D:\lập trình nâng cao\bài 1\obj\Debug\bài 1.exe
+D:\lập trình nâng cao\bài 1\obj\Debug\bài 1.pdb
+D:\lập trình nâng cao\bài 1\obj\Debug\bài 1.exe.config
+D:\lập trình nâng cao\bài 1\obj\Debug\bài_1.FrmBai1_1.resources
+D:\lập trình nâng cao\bài 1\obj\Debug\DangNhapApp.FrmBai1_1.resources
