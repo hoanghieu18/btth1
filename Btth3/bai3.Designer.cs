@@ -33,7 +33,7 @@
             this.btnCapNhat = new System.Windows.Forms.Button();
             this.txtSo = new System.Windows.Forms.TextBox();
             this.grpUocSo = new System.Windows.Forms.GroupBox();
-            this.lstUocSo = new System.Windows.Forms.ListBox();
+            this.listTinh = new System.Windows.Forms.ListBox();
             this.btnTong = new System.Windows.Forms.Button();
             this.btnChan = new System.Windows.Forms.Button();
             this.btnNguyenTo = new System.Windows.Forms.Button();
@@ -88,7 +88,7 @@
             // grpUocSo
             // 
             this.grpUocSo.BackColor = System.Drawing.Color.LightGray;
-            this.grpUocSo.Controls.Add(this.lstUocSo);
+            this.grpUocSo.Controls.Add(this.listTinh);
             this.grpUocSo.Location = new System.Drawing.Point(405, 55);
             this.grpUocSo.Name = "grpUocSo";
             this.grpUocSo.Size = new System.Drawing.Size(258, 152);
@@ -97,15 +97,15 @@
             this.grpUocSo.Text = "Danh sách ước số";
             this.grpUocSo.Enter += new System.EventHandler(this.grpUocSo_Enter);
             // 
-            // lstUocSo
+            // listTinh
             // 
-            this.lstUocSo.FormattingEnabled = true;
-            this.lstUocSo.ItemHeight = 22;
-            this.lstUocSo.Location = new System.Drawing.Point(18, 29);
-            this.lstUocSo.Name = "lstUocSo";
-            this.lstUocSo.Size = new System.Drawing.Size(220, 114);
-            this.lstUocSo.TabIndex = 3;
-            this.lstUocSo.SelectedIndexChanged += new System.EventHandler(this.lstUocSo_SelectedIndexChanged);
+            this.listTinh.FormattingEnabled = true;
+            this.listTinh.ItemHeight = 22;
+            this.listTinh.Location = new System.Drawing.Point(18, 29);
+            this.listTinh.Name = "listTinh";
+            this.listTinh.Size = new System.Drawing.Size(220, 114);
+            this.listTinh.TabIndex = 3;
+            this.listTinh.SelectedIndexChanged += new System.EventHandler(this.lstUocSo_SelectedIndexChanged);
             // 
             // btnTong
             // 
@@ -170,6 +170,7 @@
             this.Name = "FrmUocSo";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Combobox";
+            this.Load += new System.EventHandler(this.FrmUocSo_Load);
             this.grpNhapSo.ResumeLayout(false);
             this.grpNhapSo.PerformLayout();
             this.grpUocSo.ResumeLayout(false);
@@ -184,7 +185,7 @@
         private System.Windows.Forms.Button btnCapNhat;
         private System.Windows.Forms.ComboBox cboSo;
         private System.Windows.Forms.GroupBox grpUocSo;
-        private System.Windows.Forms.ListBox lstUocSo;
+        private System.Windows.Forms.ListBox listTinh;
         private System.Windows.Forms.Button btnTong;
         private System.Windows.Forms.Button btnChan;
         private System.Windows.Forms.Button btnNguyenTo;
