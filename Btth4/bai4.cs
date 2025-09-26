@@ -84,7 +84,7 @@ namespace Btth4
 
         private void txtKQ_TextChanged_1(object sender, EventArgs e)
         {
-
+            // abc
         }
     }
 }
